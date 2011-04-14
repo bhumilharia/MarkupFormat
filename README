@@ -1,0 +1,4 @@
+MarkupFormat is a Python script for formatting markup pages. I made this mainly because I found working on non-formatted HTML files very time consuming and cumbersome, and wanted some way to overcome it.
+The code was inspired by: Dhaval Mehta, who left no stone unturned in convincing me to write this.
+
+I know there are lots of other, better and more complete tools available, but I decided to do it anyways. It is very rudimentary and can be used to format only the simplest pages, as of now. Will improve the code later, if necessary. The code should work well with all xml files, though.
